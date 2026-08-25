@@ -627,7 +627,7 @@ A common misunderstanding of trauma resuscitation is that every available interv
 
 That is not the objective.
 
-The objective is to perform the **right intervention at the right time**.
+The objective is to perform the **right intervention at the right time, while allowing appropriate assessment and treatment to proceed in parallel**.
 
 A trauma team may be capable of performing multiple procedures simultaneously, but not every procedure has equal urgency.
 
@@ -656,7 +656,7 @@ What interventions, investigations, or resources must be activated now?
 
 **The next 30 minutes**
 
-Where does this patient need definitive care?
+Where does this patient need definitive care, and what must happen to get the patient there safely?
 
 **The next few hours**
 
@@ -692,7 +692,7 @@ The Trauma Team Leader should therefore build reassessment into the resuscitatio
 
 ### Clinical Pearl
 
-> **In major trauma, the most important number is often not the patient's current vital sign, but the direction in which it is moving.**
+> **In major trauma, the trend in physiological observations may be more informative than any single measurement.**
 
 ### Key Takeaways
 
