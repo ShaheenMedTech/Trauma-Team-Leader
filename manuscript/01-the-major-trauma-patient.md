@@ -1529,9 +1529,13 @@ Blood pressure is important, but it is only one component of perfusion assessmen
 
 A single apparently reassuring blood-pressure measurement should not override a concerning clinical trajectory.
 
+A patient may maintain an apparently acceptable blood pressure despite significant ongoing blood loss, particularly during the early compensatory phase of shock.
+
 The leader should continually ask whether the current resuscitation strategy is restoring adequate perfusion and controlling the underlying cause of shock.
 
 Where major haemorrhage is suspected, definitive haemorrhage control remains central. Resuscitation should support the patient while the source of bleeding is being controlled rather than becoming a substitute for haemorrhage control.
+
+When haemorrhage is the dominant cause of instability, definitive haemorrhage control should remain the central objective of resuscitation.
 
 ### Blood Products and Major Haemorrhage
 
@@ -1666,6 +1670,8 @@ The leader should ask:
 3. **Was the original diagnosis correct?**
 4. **Is there another life-threatening problem?**
 5. **Has the patient's physiology changed?**
+
+Failure to achieve the expected response should be treated as new clinical information, not simply as a reason to repeat the intervention.
 
 This prevents diagnostic and procedural fixation.
 
