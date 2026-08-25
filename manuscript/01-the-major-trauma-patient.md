@@ -1387,6 +1387,324 @@ These skills are what transform a collection of clinicians into an effective tra
 
 ## 1.7 Priorities During the Initial Resuscitation
 
+The initial resuscitation of a major trauma patient is not a sequence of isolated tasks performed one after another. It is a process of **simultaneous assessment, prioritisation, intervention, and reassessment**.
+
+The Trauma Team Leader must ensure that the team identifies immediately reversible threats while preventing less urgent problems from distracting attention from conditions that are capable of causing death within minutes.
+
+The central question throughout the initial resuscitation is:
+
+> **“What is the most important problem right now, and what must happen next to prevent deterioration?”**
+
+This requires the leader to distinguish between what is **immediately life-threatening**, what is **time-critical but temporarily tolerated**, and what can safely wait until the patient has been stabilised.
+
+### Prioritise Threats, Not Abnormalities
+
+Trauma patients commonly arrive with multiple abnormal findings. Not every abnormality requires immediate intervention.
+
+A low haemoglobin concentration, an abnormal limb position, a superficial wound, or an abnormal radiograph may be clinically important without being the most urgent problem at that moment.
+
+The leader should therefore avoid treating the most obvious abnormality as the most important abnormality.
+
+A useful hierarchy is:
+
+1. **Immediate threats to life**
+2. **Threats likely to cause rapid deterioration**
+3. **Problems requiring early definitive management**
+4. **Injuries that can safely be addressed after initial stabilisation**
+
+This hierarchy should remain dynamic. A problem that is initially less important may become the dominant priority if the patient's physiology changes.
+
+### Haemorrhage Control Has Early Priority
+
+Major haemorrhage is one of the most important preventable causes of death after trauma.
+
+The team should actively look for bleeding that can be controlled immediately. This includes:
+
+- catastrophic external haemorrhage;
+- bleeding from the limbs or junctional regions;
+- suspected pelvic haemorrhage;
+- major intrathoracic or intra-abdominal bleeding;
+- and other sources of occult blood loss.
+
+External haemorrhage should be controlled immediately when identified. Depending on the injury, this may involve direct pressure, wound packing, a tourniquet, or other appropriate haemorrhage-control techniques.
+
+At the same time, the team should recognise that a patient with severe internal bleeding may have little visible external blood loss.
+
+The absence of obvious bleeding does not therefore exclude major haemorrhage.
+
+The Trauma Team Leader should consider the patient's mechanism of injury, examination findings, physiological response, response to resuscitation, and the likely anatomical source of bleeding when deciding how urgently definitive haemorrhage control is required.
+
+### Airway and Oxygenation
+
+Airway management remains an immediate priority when obstruction is present or the patient cannot maintain or protect the airway.
+
+The leader should ensure that airway assessment occurs early and that appropriate expertise and equipment are available before the patient's condition deteriorates.
+
+However, airway management should be placed within the context of the entire trauma resuscitation.
+
+A patient with a threatened airway and uncontrolled haemorrhage may require simultaneous management of both problems. The solution is not necessarily to complete every airway task before allowing the rest of the team to address circulation.
+
+This is one of the reasons why trauma resuscitation requires **parallel processing**.
+
+The team may therefore be:
+
+- controlling external haemorrhage;
+- assessing airway patency;
+- administering oxygen when indicated;
+- monitoring the patient's physiology;
+- obtaining vascular access;
+- and preparing blood products
+
+at the same time.
+
+### Breathing: Identify Immediately Reversible Thoracic Threats
+
+The breathing assessment should rapidly identify thoracic conditions capable of causing immediate physiological collapse.
+
+Particular attention should be given to:
+
+- tension pneumothorax;
+- open pneumothorax;
+- massive haemothorax;
+- major chest wall injury;
+- and severe impairment of ventilation or oxygenation.
+
+When a life-threatening chest injury is strongly suspected, treatment should not be unnecessarily delayed while waiting for a complete diagnostic work-up.
+
+The leader must also recognise that deterioration may be rapid. A patient who initially has acceptable respiratory parameters may deteriorate after transfer, positive-pressure ventilation, analgesia, or other interventions.
+
+Continuous reassessment is therefore essential.
+
+### Circulation: Assess Perfusion, Not Blood Pressure Alone
+
+Circulatory assessment should consider the whole physiological picture.
+
+Blood pressure is important, but it is only one component of perfusion assessment. The team should also consider:
+
+- heart rate and its trend;
+- mental status;
+- peripheral perfusion;
+- skin findings;
+- urine output when available;
+- lactate and other laboratory markers when appropriate;
+- and the patient's response to resuscitation.
+
+A single apparently reassuring blood-pressure measurement should not override a concerning clinical trajectory.
+
+The leader should continually ask whether the current resuscitation strategy is restoring adequate perfusion and controlling the underlying cause of shock.
+
+Where major haemorrhage is suspected, definitive haemorrhage control remains central. Resuscitation should support the patient while the source of bleeding is being controlled rather than becoming a substitute for haemorrhage control.
+
+### Blood Products and Major Haemorrhage
+
+When significant traumatic haemorrhage is suspected, the team should activate the appropriate local major haemorrhage pathway without unnecessary delay.
+
+This requires coordination between the resuscitation team, transfusion laboratory, blood bank, surgical teams, interventional radiology, and other relevant services according to the local trauma system.
+
+The Trauma Team Leader should ensure that the decision to activate major haemorrhage support is communicated clearly and that responsibility for obtaining and administering blood products is allocated.
+
+The precise transfusion strategy should follow current institutional protocols and the patient's clinical circumstances.
+
+The leader's role is not to memorise a single universal ratio or numerical threshold. It is to recognise significant haemorrhage early, activate the appropriate system, monitor the patient's response, and ensure progression towards definitive haemorrhage control.
+
+### Neurological Priorities
+
+Neurological assessment should occur early and should be repeated.
+
+The team should assess:
+
+- level of consciousness;
+- pupillary findings;
+- gross neurological deficit;
+- and other relevant signs of traumatic brain or spinal injury.
+
+A deterioration in consciousness may represent evolving intracranial injury, hypoxia, hypotension, hypercapnia, intoxication, seizures, or another reversible problem.
+
+The leader should therefore avoid assuming that an altered mental state is automatically explained by head injury.
+
+In patients with traumatic brain injury, prevention and correction of secondary physiological insults are important. Hypoxia and hypotension are associated with worse outcomes and may contribute to secondary brain injury.
+
+Appropriate physiological targets depend on the patient's age, injury pattern, and clinical context.
+
+### Exposure, Examination, and Temperature Control
+
+A complete trauma examination requires appropriate exposure so that injuries are not missed.
+
+However, exposure should be balanced against the risk of hypothermia.
+
+Major trauma patients may become hypothermic because of environmental exposure, blood loss, shock, wet clothing, prolonged procedures, administration of cold fluids or blood products, and impaired thermoregulation.
+
+Hypothermia may worsen coagulopathy and contribute to the deterioration of a severely injured patient.
+
+The team should therefore expose the patient sufficiently to identify important injuries while actively maintaining temperature control.
+
+This is another example of the Trauma Team Leader managing competing priorities rather than following a rigid checklist mechanically.
+
+### Parallel Processing
+
+One of the defining features of effective trauma resuscitation is that several processes occur simultaneously.
+
+For example, while one clinician assesses the airway, another may control haemorrhage, another obtains vascular access, another prepares blood products, and another performs focused examination or ultrasound.
+
+The Trauma Team Leader must coordinate these activities without allowing the team to become disorganised.
+
+Parallel processing is most effective when:
+
+- roles are clearly assigned;
+- tasks are communicated explicitly;
+- team members understand the overall priorities;
+- information is shared openly;
+- and the leader maintains awareness of the patient's overall trajectory.
+
+The objective is not simply to make the team move faster.
+
+The objective is to **reduce avoidable delay without sacrificing clinical judgement or safety**.
+
+### When Priorities Compete
+
+Trauma rarely presents as a single problem.
+
+A patient may simultaneously have:
+
+- a threatened airway;
+- severe thoracic injury;
+- suspected pelvic haemorrhage;
+- traumatic brain injury;
+- and a long-bone fracture.
+
+The leader must decide which interventions are immediately necessary and which can safely occur in parallel or be deferred.
+
+This is where leadership becomes more important than procedural expertise alone.
+
+The leader should ask:
+
+> **Which problem is most likely to kill the patient first?**
+
+and then:
+
+> **What can the team do simultaneously to prevent the other threats from progressing?**
+
+This approach prevents the resuscitation from becoming a linear sequence in which one clinician completes one task while other life-threatening problems remain untreated.
+
+### The Primary Survey Is Dynamic
+
+The primary survey should never be regarded as a one-time examination.
+
+After an intervention, the patient's physiology may change. A procedure may solve one problem while creating another. New information may reveal an injury that changes the priority of the resuscitation.
+
+The team should therefore repeatedly return to the primary survey.
+
+For example:
+
+> **Airway → Breathing → Circulation → Disability → Exposure**
+
+is not simply a pathway from the beginning to the end.
+
+It is a cycle:
+
+> **Assess → Intervene → Reassess → Reprioritise**
+
+The leader should actively prompt reassessment after major interventions and whenever there is a change in the patient's condition.
+
+### Reassessment After Intervention
+
+Every major intervention should have an expected physiological or clinical effect.
+
+If the expected improvement does not occur, the leader should reconsider the diagnosis and the effectiveness of the intervention.
+
+Examples include:
+
+- persistent hypotension despite initial haemorrhage management;
+- ongoing respiratory compromise after treatment of a suspected chest injury;
+- persistent altered consciousness despite correction of an apparent physiological cause;
+- or continuing external bleeding despite an attempted haemorrhage-control technique.
+
+Failure to improve should trigger a deliberate reassessment rather than automatic repetition of the same intervention.
+
+The leader should ask:
+
+1. **Did the intervention occur?**
+2. **Was it technically effective?**
+3. **Was the original diagnosis correct?**
+4. **Is there another life-threatening problem?**
+5. **Has the patient's physiology changed?**
+
+This prevents diagnostic and procedural fixation.
+
+### Definitive Management Should Be Anticipated Early
+
+Resuscitation should not become an endless cycle of temporary interventions.
+
+While immediate threats are being treated, the Trauma Team Leader should already be considering what definitive management the patient is likely to require.
+
+Depending on the injury pattern, this may include:
+
+- operative haemorrhage control;
+- interventional radiology;
+- definitive chest intervention;
+- neurosurgical management;
+- orthopaedic intervention;
+- transfer to a major trauma centre;
+- or admission to critical care.
+
+The question is not simply:
+
+> **“What do we need to do now?”**
+
+It is also:
+
+> **“Where does this patient need to go next, and what must happen before they can get there safely?”**
+
+Early anticipation reduces delays later in the resuscitation.
+
+### A Practical Mental Model for the Trauma Team Leader
+
+During the initial resuscitation, the leader can use a simple repeating mental model:
+
+**Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate**
+
+**Recognise**
+
+Identify actual and potential life-threatening problems.
+
+**Prioritise**
+
+Determine which problem requires immediate attention and which problems can be managed simultaneously or deferred.
+
+**Delegate**
+
+Assign clear tasks to named team members and ensure that responsibilities are understood.
+
+**Intervene**
+
+Ensure that appropriate treatment occurs without unnecessary delay.
+
+**Reassess**
+
+Determine whether the intervention has achieved its intended effect and whether the patient's physiology is improving.
+
+**Anticipate**
+
+Look ahead to the next likely deterioration, investigation, intervention, or destination.
+
+This cycle should continue throughout the resuscitation.
+
+> **The priority in major trauma is not to complete the checklist. The priority is to keep identifying and treating the problems most capable of killing the patient, while continuously reassessing whether the strategy is working.**
+
+### Key Takeaways
+
+1. **Prioritise life-threatening problems rather than simply treating the most obvious injury.**
+2. **Major haemorrhage should be recognised and controlled as early as possible.**
+3. **Airway, breathing, circulation, neurological status, and exposure must be assessed dynamically.**
+4. **Trauma resuscitation requires parallel processing rather than rigid sequential task completion.**
+5. **Blood pressure alone does not define adequate perfusion.**
+6. **Every major intervention should be followed by deliberate reassessment.**
+7. **Failure to improve should prompt reconsideration of both the diagnosis and the intervention.**
+8. **Definitive management and patient destination should be anticipated early.**
+9. **The primary survey is a cycle of assessment, intervention, reassessment, and reprioritisation.**
+10. **Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate provides a practical framework for trauma leadership.**
+
+
 ## 1.8 Common Errors
 
 ## Case-Based Discussion
