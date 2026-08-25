@@ -1707,6 +1707,308 @@ This cycle should continue throughout the resuscitation.
 
 ## 1.8 Common Errors
 
+Major trauma resuscitation can fail even when individual clinicians are technically competent.
+
+The problem is often not a lack of knowledge of trauma medicine. Instead, failure may result from **poor prioritisation, delayed escalation, communication failure, cognitive fixation, or loss of situational awareness**.
+
+For the Trauma Team Leader, recognising these failure patterns is as important as knowing the correct interventions.
+
+The following errors are particularly important because they are often preventable.
+
+### Failure to Prepare Before the Patient Arrives
+
+A trauma resuscitation should begin before the patient reaches the resuscitation room.
+
+Failure to review the pre-alert, activate the appropriate team, prepare equipment, anticipate likely interventions, or establish roles creates avoidable delay once the patient arrives.
+
+Preparation should consider:
+
+- the mechanism and likely injury pattern;
+- anticipated airway or ventilatory support;
+- vascular access and monitoring;
+- blood products and haemorrhage-control equipment;
+- imaging requirements;
+- likely specialist involvement;
+- and the patient's probable destination.
+
+The Trauma Team Leader should use the pre-arrival period to create a shared mental model of the case.
+
+### Unclear Leadership and Role Allocation
+
+A team cannot function efficiently when several clinicians believe that someone else is directing the resuscitation.
+
+The leader should be identifiable and should establish roles early.
+
+Tasks should be assigned to specific individuals rather than to the group as a whole.
+
+For example:
+
+> “Can someone obtain IV access?”
+
+is less effective than:
+
+> “Sarah, obtain two large-bore IVs and send bloods.”
+
+Clear delegation reduces duplication, omission, and uncertainty.
+
+### Treating Trauma as a Linear Process
+
+One of the most common conceptual errors is attempting to complete every element of the primary survey before allowing the next problem to be addressed.
+
+Major trauma does not behave like a checklist that can always be completed from A to E without interruption.
+
+Airway management, haemorrhage control, ventilation, vascular access, blood-product preparation, monitoring, and imaging may all need to occur simultaneously.
+
+The leader should therefore coordinate **parallel processing** while maintaining a clear hierarchy of priorities.
+
+### Fixation on a Single Injury
+
+A dramatic injury can dominate the attention of the entire team.
+
+Examples include an obvious open fracture, severe facial injury, penetrating wound, or major scalp laceration.
+
+The presence of one striking injury should never create diagnostic closure.
+
+The leader must repeatedly ask:
+
+> **“What else could be killing this patient?”**
+
+A visible injury may coexist with occult haemorrhage, thoracic injury, traumatic brain injury, or another immediately life-threatening problem.
+
+### Delayed Haemorrhage Control
+
+Recognising haemorrhage without progressing towards definitive control is a major failure.
+
+Repeated measurements, additional intravenous fluid, or increasingly sophisticated investigations cannot substitute for controlling the source of bleeding.
+
+When major haemorrhage is suspected, the team should simultaneously:
+
+- support circulation;
+- activate the appropriate haemorrhage pathway;
+- identify the likely bleeding source;
+- involve the appropriate definitive treatment team;
+- and move towards haemorrhage control.
+
+The leader should continually ask whether the current actions are **buying time or actually treating the cause**.
+
+### Over-Reliance on Apparently Normal Vital Signs
+
+Early compensation can make a severely injured patient appear deceptively stable.
+
+A normal blood pressure does not exclude significant haemorrhage.
+
+Similarly, a normal oxygen saturation at one moment does not guarantee that ventilation and oxygenation will remain adequate.
+
+The leader should interpret vital signs as trends within the clinical context rather than as isolated reassuring numbers.
+
+Mechanism, examination findings, perfusion, mental state, response to intervention, and trajectory all contribute to the assessment.
+
+### Delayed Escalation
+
+Trauma teams sometimes continue attempting increasingly complex interventions without involving the specialist or service that can provide definitive treatment.
+
+Escalation should occur early when the patient's needs exceed the capability of the immediate team or facility.
+
+This may include contacting:
+
+- senior surgical support;
+- anaesthesia;
+- orthopaedics;
+- neurosurgery;
+- interventional radiology;
+- intensive care;
+- transfusion services;
+- or a regional major trauma centre.
+
+The exact escalation pathway depends on the local trauma system.
+
+The important principle is:
+
+> **Do not wait for failure to become obvious before calling for help.**
+
+### Failure to Reassess After Intervention
+
+An intervention is not complete simply because it has been performed.
+
+Its effect must be assessed.
+
+If a patient remains hypotensive after an intervention intended to improve perfusion, the leader should not simply move on to the next item on the checklist.
+
+The team should determine whether:
+
+- the intervention was performed correctly;
+- it achieved the intended physiological effect;
+- the underlying diagnosis was correct;
+- another source of deterioration is present;
+- or definitive treatment is still required.
+
+Failure to reassess is a common mechanism for allowing an incorrect diagnosis to persist.
+
+### Poor Communication
+
+Trauma resuscitation generates large amounts of information in a short period.
+
+Important findings can be missed if they are not communicated clearly.
+
+The leader should encourage concise communication of:
+
+- critical findings;
+- changes in physiology;
+- response to intervention;
+- new diagnostic information;
+- and emerging concerns.
+
+Closed-loop communication is particularly useful for important tasks.
+
+The person receiving an instruction should acknowledge it, and completion should be confirmed.
+
+This reduces the risk of assuming that an important task has been completed when it has not.
+
+### Excessive Diagnostic Focus Before Treating Immediate Threats
+
+Imaging and laboratory investigations are valuable, but they should support resuscitation rather than delay treatment of immediately life-threatening problems.
+
+A patient with an obvious life-threatening condition should not undergo prolonged diagnostic evaluation when the diagnosis is sufficiently clear to justify immediate treatment.
+
+The leader must continuously balance the value of additional information against the physiological risk and time cost of obtaining it.
+
+The relevant question is:
+
+> **“Will this investigation change what we need to do now?”**
+
+If the answer is no, it may be appropriate to defer the investigation until immediate threats have been addressed.
+
+### Failure to Anticipate Deterioration
+
+A trauma patient who is currently stable may not remain stable.
+
+Deterioration may follow:
+
+- ongoing haemorrhage;
+- worsening airway obstruction;
+- increasing respiratory compromise;
+- evolving intracranial injury;
+- hypothermia;
+- or the effects of interventions such as sedation and positive-pressure ventilation.
+
+The leader should therefore prepare for the next likely problem rather than waiting for it to occur.
+
+Anticipation may include preparing blood products before cardiovascular collapse, having advanced airway equipment immediately available, arranging specialist support early, or identifying the destination before the resuscitation becomes critical.
+
+### Failure to Maintain Situational Awareness
+
+Situational awareness means maintaining an accurate understanding of:
+
+1. **What is happening now**
+2. **What has already been done**
+3. **What remains unresolved**
+4. **What is likely to happen next**
+
+A leader who becomes absorbed in a single procedure may lose awareness of the wider resuscitation.
+
+This can result in missed deterioration, duplicated tasks, delayed escalation, or failure to recognise that the overall strategy is no longer working.
+
+The leader should periodically step back mentally and reassess the entire situation.
+
+### Cognitive Overload
+
+Major trauma creates a high cognitive workload.
+
+Multiple clinicians may be speaking simultaneously, several procedures may be underway, monitoring data may be changing, and new information may arrive continuously.
+
+Under these conditions, the leader should simplify rather than complicate the situation.
+
+Useful strategies include:
+
+- identifying the immediate priorities;
+- assigning tasks clearly;
+- verbalising the working diagnosis;
+- requesting concise updates;
+- using structured reassessment;
+- and periodically summarising the situation to the team.
+
+A short statement such as:
+
+> **“We have ongoing shock with suspected abdominal haemorrhage. Airway is currently maintained. We are giving blood and moving towards definitive haemorrhage control.”**
+
+can restore a shared mental model when the team becomes overloaded.
+
+### Failure to Plan Definitive Care
+
+Resuscitation should not become an endpoint.
+
+The Trauma Team Leader should identify early whether the patient is likely to require:
+
+- an operating theatre;
+- interventional radiology;
+- critical care;
+- specialist surgery;
+- transfer to another trauma facility;
+- or another form of definitive management.
+
+Delaying this decision until the patient has exhausted the capabilities of the current environment can create avoidable deterioration and delay.
+
+The question should therefore be asked early:
+
+> **“What does this patient need next, and what needs to happen to get them there safely?”**
+
+### Failing to Recognise When the Strategy Is Not Working
+
+Perhaps the most important error is continuing with the same plan despite evidence that it is failing.
+
+Persistent shock, worsening respiratory failure, declining consciousness, uncontrolled bleeding, or repeated deterioration should trigger a change in strategy.
+
+The leader should be willing to stop, reassess, and escalate.
+
+A useful rule is:
+
+> **If the patient is not improving as expected, reconsider the diagnosis, the intervention, and the overall plan.**
+
+This is not indecision.
+
+It is deliberate clinical reassessment.
+
+### A Practical Error-Prevention Checklist
+
+Before moving beyond the initial resuscitation, the Trauma Team Leader should ask:
+
+- **Have all immediately life-threatening problems been identified?**
+- **Is haemorrhage controlled or is definitive control underway?**
+- **Is the airway secure and adequate for the patient's current condition?**
+- **Is ventilation and oxygenation adequate?**
+- **Is perfusion improving?**
+- **Has neurological status been reassessed?**
+- **Has the patient been adequately examined without unnecessary heat loss?**
+- **Have major interventions been reassessed?**
+- **Has the appropriate specialist help been activated?**
+- **Has definitive management been anticipated?**
+- **Does the team have a shared understanding of the current priorities?**
+- **Where does the patient need to go next?**
+
+These questions are not intended to replace the primary survey.
+
+They are intended to help the leader identify whether the resuscitation is progressing towards a safe and definitive outcome.
+
+> **The safest trauma team is not the team that never encounters problems. It is the team that recognises problems early, communicates them clearly, and changes course before deterioration becomes irreversible.**
+
+### Key Takeaways
+
+1. **Preparation begins before the patient arrives.**
+2. **The Trauma Team Leader should establish clear leadership and explicit task allocation.**
+3. **Major trauma requires parallel processing rather than rigid linear task completion.**
+4. **Do not allow a dramatic injury to create fixation or diagnostic closure.**
+5. **Recognise haemorrhage early and move rapidly towards definitive control.**
+6. **Do not rely on a single apparently normal physiological measurement.**
+7. **Escalate early when the patient's needs exceed the team's or facility's capabilities.**
+8. **Every major intervention requires reassessment of its effect.**
+9. **Clear communication and closed-loop communication reduce preventable errors.**
+10. **Diagnostic investigations should not delay treatment of immediately life-threatening conditions.**
+11. **Maintain situational awareness and anticipate deterioration.**
+12. **If the patient is not improving as expected, reconsider the diagnosis and the overall strategy.**
+13. **Definitive treatment and destination should be planned early.**
+
+
+
 ## Case-Based Discussion
 
 ## Key Takeaways
