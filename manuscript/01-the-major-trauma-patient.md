@@ -1413,7 +1413,7 @@ This does not mean personally performing every intervention or making every deci
 
 It means ensuring that the patient remains the centre of the team's attention, that priorities are explicit, that important tasks have owners, that deterioration is recognised early, and that the team moves towards definitive care without avoidable delay.
 
-> **The Trauma Team Leader's job is to keep the team ahead of the patient—not chasing problems after they have already become crises.**
+> **The Trauma Team Leader's role is to keep the team ahead of the patient's trajectory, anticipating problems before they become crises.**
 
 Effective leadership therefore combines clinical knowledge with situational awareness, communication, delegation, anticipation, and disciplined reassessment.
 
