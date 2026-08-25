@@ -1777,6 +1777,8 @@ Preparation should consider:
 
 The Trauma Team Leader should use the pre-arrival period to create a shared mental model of the case.
 
+Effective preparation reduces avoidable delay and improves team readiness before the patient arrives.
+
 ### Unclear Leadership and Role Allocation
 
 A team cannot function efficiently when several clinicians believe that someone else is directing the resuscitation.
@@ -1804,6 +1806,8 @@ Major trauma does not behave like a checklist that can always be completed from 
 Airway management, haemorrhage control, ventilation, vascular access, blood-product preparation, monitoring, and imaging may all need to occur simultaneously.
 
 The leader should therefore coordinate **parallel processing** while maintaining a clear hierarchy of priorities.
+
+Parallel processing does not mean that everything should happen simultaneously; tasks should be coordinated according to urgency, dependency, and available resources.
 
 ### Fixation on a Single Injury
 
@@ -1853,6 +1857,8 @@ Trauma teams sometimes continue attempting increasingly complex interventions wi
 
 Escalation should occur early when the patient's needs exceed the capability of the immediate team or facility.
 
+This should occur before local resources are exhausted or repeated unsuccessful interventions create further delay.
+
 This may include contacting:
 
 - senior surgical support;
@@ -1887,6 +1893,8 @@ The team should determine whether:
 - or definitive treatment is still required.
 
 Failure to reassess is a common mechanism for allowing an incorrect diagnosis to persist.
+
+When the expected response is not achieved, the leader should reconsider both the working diagnosis and the overall management strategy.
 
 ### Poor Communication
 
