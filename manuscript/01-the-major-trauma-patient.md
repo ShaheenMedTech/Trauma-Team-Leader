@@ -185,7 +185,7 @@ Individually, each delay may appear minor.
 
 Collectively, they can alter the patient's trajectory.
 
-NICE recommends that pre-alert information is received by the trauma team leader, that the trauma team is ready to receive the patient, and that the level of team response is determined according to agreed local guidelines. This reflects an important principle: **trauma care begins before the patient enters the resuscitation room**. :contentReference[oaicite:1]{index=1}
+NICE guidance emphasises that pre-alert information should reach the Trauma Team Leader, that the trauma team should be prepared to receive the patient, and that the level of response should follow agreed local guidelines. The principle is important: **trauma care begins before the patient enters the resuscitation room**.
 
 ### The First 60 Seconds
 
