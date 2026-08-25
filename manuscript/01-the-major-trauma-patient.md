@@ -2011,6 +2011,119 @@ They are intended to help the leader identify whether the resuscitation is progr
 
 ## Case-Based Discussion
 
+### Scenario
+
+A 34-year-old man is brought to the resuscitation room following a high-speed road traffic collision. He was the restrained driver and required extrication from the vehicle.
+
+The pre-hospital team reports:
+
+- reduced level of consciousness immediately after the collision, with subsequent improvement;
+- significant damage to the front of the vehicle;
+- suspected chest and pelvic injury;
+- persistent tachycardia;
+- borderline systolic blood pressure;
+- increasing respiratory effort;
+- cool peripheries.
+
+On arrival, the patient is conscious but distressed. He is speaking in short sentences. His respiratory rate is 30/min, oxygen saturation is 94% on high-flow oxygen, heart rate is 128/min, and systolic blood pressure is 96 mmHg.
+
+There is no obvious catastrophic external haemorrhage.
+
+The team begins the primary survey.
+
+### Questions for the Trauma Team Leader
+
+**1. Does this patient have major trauma?**
+
+Yes. The mechanism, suspected injury pattern, physiological abnormalities, and potential for rapid deterioration all support major trauma. A definitive injury burden does not need to be established before the patient is treated as a major trauma patient.
+
+**2. What should determine your immediate priorities?**
+
+Immediate priorities should be determined by threats to life, physiological deterioration, and the patient's response to intervention.
+
+The leader should avoid allowing the mechanism, a single abnormal observation, or one dramatic injury to dominate the entire assessment.
+
+**3. What is the significance of the patient's systolic blood pressure of 96 mmHg?**
+
+It should not be interpreted in isolation.
+
+In the context of tachycardia, cool peripheries, suspected torso and pelvic injury, and a high-energy mechanism, the finding should raise concern for significant haemorrhage or evolving circulatory compromise.
+
+The absence of profound hypotension does not exclude major haemorrhage.
+
+**4. What should the team leader ask the team to do while the primary survey continues?**
+
+The leader should ensure that:
+
+- airway and ventilation are assessed and managed;
+- immediately reversible thoracic threats are actively considered;
+- major external haemorrhage is excluded or controlled;
+- circulation and perfusion are assessed repeatedly;
+- intravenous or intraosseous access is established as appropriate;
+- blood sampling and preparation for blood products are initiated when indicated;
+- pelvic injury and other sources of occult haemorrhage are considered;
+- appropriate senior surgical, anaesthetic, radiology, transfusion, and critical-care support is activated according to local pathways.
+
+The leader should also determine whether the patient requires immediate transfer to definitive haemorrhage control rather than allowing diagnostic processes to create avoidable delay.
+
+### Decision Point
+
+During the assessment, the patient's respiratory effort increases and his blood pressure falls further.
+
+The leader should recognise that this is not simply a new isolated observation.
+
+It represents a **change in trajectory**.
+
+The correct response is to reassess the patient, identify what has changed, and determine whether a previously occult life-threatening problem has become clinically apparent.
+
+The team should not continue mechanically through a checklist while the patient's physiology is deteriorating.
+
+### Leadership Point
+
+This scenario demonstrates why the Trauma Team Leader must continuously integrate:
+
+**Mechanism → Injury pattern → Physiology → Response to treatment → Trajectory**
+
+The leader's task is not to know the final diagnosis immediately.
+
+The task is to ensure that the team is identifying and treating the most dangerous possibilities while moving efficiently toward definitive diagnosis and treatment.
+
+### Debrief
+
+The most important lessons from this case are:
+
+1. **Major trauma is a clinical and physiological problem, not simply an anatomical diagnosis.**
+2. **A patient can be seriously injured despite apparently modest abnormalities in the first set of observations.**
+3. **Normal or near-normal blood pressure does not exclude major haemorrhage.**
+4. **The primary survey is dynamic and must be repeated when the patient's condition changes.**
+5. **The Trauma Team Leader must anticipate deterioration rather than wait for collapse.**
+6. **Early activation of the appropriate resources can prevent avoidable delay.**
+7. **The leader must maintain situational awareness while allowing individual team members to perform focused tasks.**
+8. **The endpoint of resuscitation is not completion of the checklist; it is control of life-threatening pathology and progression toward definitive care.**
+
 ## Key Takeaways
 
+1. **Major trauma is defined by the potential for death, major physiological deterioration, or long-term disability—not simply by the number of injuries.**
+2. **Early management must be driven by immediate threats, physiology, injury pattern, mechanism, and trajectory.**
+3. **The first minutes are a period of active intervention and decision-making.**
+4. **The primary survey should be performed systematically but must remain dynamic.**
+5. **Life-threatening problems should be treated as they are identified rather than waiting for completion of the entire assessment.**
+6. **A single physiological value should never be interpreted without clinical context and trend.**
+7. **Major haemorrhage should be considered early when the mechanism and clinical picture support it.**
+8. **The Trauma Team Leader manages both the patient and the system surrounding the patient.**
+9. **Clear role allocation, closed-loop communication, anticipation, and repeated reassessment are essential components of effective trauma leadership.**
+10. **The Injury Severity Score is useful for describing anatomical injury burden but is not a substitute for clinical assessment during the initial resuscitation.**
+11. **The team should move deliberately from recognition of threats to definitive control of the underlying pathology.**
+12. **The practical mental model is: Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate.**
+
 ## References
+
+1. American College of Surgeons Committee on Trauma. *Advanced Trauma Life Support (ATLS®), 11th Edition*. Chicago, IL: American College of Surgeons; 2025.
+
+2. National Institute for Health and Care Excellence (NICE). *Major trauma: assessment and initial management*. NICE guideline NG39. Updated 2025.
+
+3. American College of Surgeons Committee on Trauma. *National Trauma Data Bank®: Annual Report*. Chicago, IL: American College of Surgeons.
+
+4. American College of Surgeons Committee on Trauma. *Resources for Optimal Care of the Injured Patient*. Chicago, IL: American College of Surgeons.
+
+5. Evans JA, van Wessem KJP, McDougall D, Lee KA, Lyons T, Balogh ZJ. Epidemiology of traumatic deaths: comprehensive population-based assessment. *World Journal of Surgery*.
