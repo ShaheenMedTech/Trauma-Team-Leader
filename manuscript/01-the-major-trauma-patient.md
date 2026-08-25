@@ -8,7 +8,41 @@ author: "Shaheen Salih Abdalaziz Ahmed"
 
 ## Clinical Scenario
 
+A 34-year-old man is brought to the resuscitation room following a high-speed road traffic collision. He required extrication and has suspected chest and pelvic injury, persistent tachycardia, increasing respiratory effort, cool peripheries, and a systolic blood pressure of 96 mmHg.
+
+He is conscious but distressed and speaking in short sentences. There is no obvious catastrophic external haemorrhage.
+
+The Trauma Team Leader must rapidly determine what threatens the patient now, what is likely to deteriorate next, and which interventions and resources are required before definitive diagnosis is established.
+
+The central question is:
+
+> **“What could kill this patient next, and what does the team need to do now to prevent it?”**
+
+This question provides the framework for the chapter.
+
 ## Learning Objectives
+
+By the end of this chapter, the reader should be able to:
+
+1. **Define major trauma** in terms of immediate threat to life, physiological deterioration, and potential for long-term disability.
+
+2. **Recognise major trauma as a time-critical clinical and systems problem**, rather than simply an anatomical diagnosis.
+
+3. **Describe the principles of the initial approach and primary survey**, including the need to identify and treat immediately life-threatening problems as they are recognised.
+
+4. **Interpret mechanism, injury pattern, physiology, and clinical trajectory together** when establishing priorities during the initial resuscitation.
+
+5. **Recognise early features of physiological deterioration**, including compensated or evolving haemorrhagic shock, and understand why a single apparently reassuring observation does not exclude major injury.
+
+6. **Explain the role of the Trauma Team Leader** in establishing priorities, allocating tasks, maintaining situational awareness, coordinating resources, and anticipating deterioration.
+
+7. **Understand the importance of reassessment after major interventions and whenever the patient's condition changes.**
+
+8. **Identify common sources of avoidable delay** in major trauma and describe strategies to reduce them.
+
+9. **Distinguish the role of the Injury Severity Score from the clinical decision-making required during the initial resuscitation.**
+
+10. **Apply the mental model of Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate to the early management of a major trauma patient.**
 
 ## 1.1 What Is Major Trauma?
 
