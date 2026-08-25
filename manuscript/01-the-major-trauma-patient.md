@@ -1743,10 +1743,10 @@ This cycle should continue throughout the resuscitation.
 4. **Trauma resuscitation requires parallel processing rather than rigid sequential task completion.**
 5. **Blood pressure alone does not define adequate perfusion.**
 6. **Every major intervention should be followed by deliberate reassessment.**
-7. **Failure to improve should prompt reconsideration of both the diagnosis and the intervention.**
-8. **Definitive management and patient destination should be anticipated early.**
-9. **The primary survey is a cycle of assessment, intervention, reassessment, and reprioritisation.**
-10. **Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate provides a practical framework for trauma leadership.**
+7. **Priorities should change when the patient's physiology or clinical trajectory changes.**
+8. **Parallel processing should reduce avoidable delay without replacing clinical judgement.**
+9. **Definitive management and destination planning should begin early.**
+10. **The Trauma Team Leader should continuously anticipate deterioration and the resources required to manage it.**
 
 
 ## 1.8 Common Errors
