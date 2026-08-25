@@ -1,0 +1,11 @@
+# Generated documents
+drafts/*.docx
+
+# Temporary/test files
+drafts/*test*
+drafts/template-sample.md
+
+# OS/editor files
+.DS_Store
+*~
+*.swp
