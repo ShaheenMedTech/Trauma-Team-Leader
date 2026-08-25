@@ -960,6 +960,431 @@ These questions help prevent cognitive fixation and keep the team focused on pri
 
 ## 1.6 The Role of the Trauma Team Leader
 
+The Trauma Team Leader is responsible for maintaining the overall direction of the resuscitation.
+
+This is different from being the most senior clinician in the room or the person who performs the most procedures. The leader's primary function is to integrate clinical information, establish priorities, coordinate the team, anticipate what may happen next, and ensure that the patient continues to receive appropriate care as the situation evolves.
+
+In major trauma, the leader is therefore responsible for both **clinical decision-making** and **team performance**.
+
+### The Leader's Core Responsibilities
+
+Although the exact role varies between trauma systems, the Trauma Team Leader should generally:
+
+- establish the priorities of the resuscitation;
+- ensure that life-threatening problems are identified and treated promptly;
+- allocate tasks to appropriate team members;
+- maintain situational awareness;
+- integrate information from examination, monitoring, investigations, and team members;
+- recognise deterioration early;
+- anticipate the next major problem;
+- coordinate specialist involvement;
+- ensure that interventions are followed by reassessment;
+- communicate changes in the plan;
+- decide when escalation is required; and
+- coordinate the transition to definitive care.
+
+These responsibilities continue throughout the resuscitation.
+
+The leader should therefore avoid viewing the trauma assessment as a sequence that is completed once. Major trauma is a dynamic process in which priorities may change within minutes.
+
+### Establishing Priorities
+
+The first responsibility of the leader is to determine what matters most **now**.
+
+Several serious injuries may be present simultaneously, but they do not necessarily have equal urgency.
+
+The leader should continually distinguish between:
+
+**Immediate threats** — problems that may cause rapid deterioration or death if not treated promptly.
+
+**Important but temporarily stable problems** — injuries that require treatment but do not currently take priority over an immediate life threat.
+
+**Diagnostic uncertainties** — questions that require further assessment or investigation but do not justify delaying treatment of an established life-threatening problem.
+
+**Definitive management decisions** — decisions about surgery, interventional radiology, intensive care, transfer, or other destination that may need to be initiated early.
+
+This prioritisation prevents the team from treating every problem as though it has the same urgency.
+
+> **The question is not simply “What injuries does this patient have?” It is “Which problem must we solve first, and what can safely happen in parallel?”**
+
+### Situational Awareness
+
+Situational awareness is the ability to maintain an accurate understanding of the patient's current condition, the actions being taken, and the likely next developments.
+
+For the Trauma Team Leader, this means continuously maintaining three levels of awareness:
+
+**What is happening now?**
+
+The leader should know the patient's current physiological state and the major active problems.
+
+**What is changing?**
+
+The leader should recognise trends rather than relying only on isolated measurements.
+
+**What is likely to happen next?**
+
+The leader should anticipate deterioration, treatment failure, and resource requirements before they become emergencies.
+
+A leader who focuses exclusively on the procedure currently being performed may lose awareness of the rest of the patient.
+
+This is one reason why the Trauma Team Leader should usually avoid becoming deeply involved in a technical task when another appropriately skilled team member can perform it.
+
+### Decision-Making Under Uncertainty
+
+Trauma decisions are often made before the diagnosis is complete.
+
+The leader may need to make important decisions using:
+
+- incomplete information;
+- unreliable or changing physiological measurements;
+- limited pre-hospital information;
+- uncertain injury patterns;
+- competing clinical priorities; and
+- imperfect predictions of how the patient will respond.
+
+Waiting for certainty can create dangerous delay.
+
+The leader should therefore distinguish between **uncertainty that requires further information** and **uncertainty that should not delay treatment of an obvious threat**.
+
+For example, a patient with severe ongoing haemorrhage does not need a perfectly defined anatomical diagnosis before haemorrhage control and resuscitation begin.
+
+The objective is not to eliminate uncertainty before acting.
+
+The objective is to make the **best available decision with the information currently available**, while continuing to obtain better information.
+
+### Delegation and Task Allocation
+
+A leader cannot safely perform every task personally.
+
+Delegation allows several important processes to occur simultaneously.
+
+Effective delegation should be:
+
+- specific;
+- directed to a named individual;
+- appropriate to that person's competence;
+- linked to a clear objective; and
+- accompanied by confirmation when the task is completed or fails.
+
+For example:
+
+> **“Dr Ahmed, assess the airway and prepare for definitive airway management if the patient deteriorates.”**
+
+is more useful than:
+
+> **“Someone watch the airway.”**
+
+The leader should also avoid repeatedly reassigning tasks without a clear reason. Constant changes in responsibility can increase confusion and reduce accountability.
+
+### Maintaining the Whole-Patient View
+
+Major trauma encourages fixation.
+
+A dramatic open injury, obvious deformity, large external wound, or abnormal neurological finding may attract the attention of the entire team.
+
+The Trauma Team Leader must resist this tendency.
+
+The patient should continue to be assessed as a whole.
+
+A patient with a severe head injury may also have uncontrolled haemorrhage.
+
+A patient with a major chest injury may also have pelvic haemorrhage.
+
+A patient with an obvious limb injury may also have occult abdominal injury.
+
+The leader should repeatedly ask:
+
+> **“What could we be missing?”**
+
+This question is particularly valuable when the current explanation does not fully account for the patient's physiology.
+
+### Anticipation
+
+One of the defining characteristics of effective trauma leadership is anticipation.
+
+The leader should think one or two steps ahead.
+
+If the patient is becoming progressively unstable, the leader should consider what will be required if current measures fail.
+
+This may include:
+
+- additional blood products;
+- further vascular access;
+- airway expertise;
+- surgical review;
+- interventional radiology;
+- operating theatre availability;
+- intensive care;
+- transfer to another trauma centre; or
+- additional personnel and equipment.
+
+Anticipation is not the same as predicting exactly what will happen.
+
+It means preparing for plausible deterioration so that the team does not lose time when it occurs.
+
+> **Preparation converts an unexpected deterioration into an anticipated contingency.**
+
+### Reassessment After Intervention
+
+An intervention is not complete when the procedure has been performed.
+
+It is complete when its effect has been assessed.
+
+After a major intervention, the leader should ask:
+
+1. **Was the intervention performed successfully?**
+2. **Did the expected physiological response occur?**
+3. **Has the underlying problem actually improved?**
+4. **What does the new clinical state mean for our priorities?**
+
+For example, if an intervention intended to improve ventilation does not improve oxygenation or respiratory mechanics, the leader should not simply continue with the original plan.
+
+The lack of response is new clinical information.
+
+The strategy may need to change.
+
+### Managing Competing Priorities
+
+Major trauma frequently creates simultaneous demands.
+
+A patient may require airway intervention while also experiencing major haemorrhage.
+
+Imaging may be diagnostically useful while the patient's physiology is deteriorating.
+
+A specialist may request a procedure while another team member identifies a more immediate threat.
+
+The Trauma Team Leader must decide which actions should occur:
+
+- **immediately**;
+- **in parallel**;
+- **after stabilisation**; or
+- **only if the patient's condition permits**.
+
+This is one of the most important leadership functions in the resuscitation room.
+
+The leader should not allow the team to become paralysed by competing requests.
+
+Instead, competing priorities should be explicitly resolved.
+
+### Avoiding Fixation and Premature Closure
+
+Cognitive errors can be particularly dangerous during trauma resuscitation.
+
+**Fixation** occurs when attention becomes excessively focused on one problem.
+
+**Premature closure** occurs when the team accepts an explanation before sufficient evidence has been obtained.
+
+The leader should deliberately challenge both.
+
+Useful questions include:
+
+> **“Does the current diagnosis explain the physiology?”**
+
+> **“What else could cause this deterioration?”**
+
+> **“What life-threatening problem have we not yet excluded?”**
+
+> **“Is our current treatment producing the response we expected?”**
+
+These questions should be used selectively. Constantly challenging every decision can create noise and delay. The purpose is to identify situations in which the clinical picture no longer fits the working diagnosis.
+
+### Managing Cognitive Load
+
+Trauma resuscitation generates substantial cognitive load.
+
+The leader must process information from:
+
+- the patient;
+- monitors;
+- physical examination;
+- procedures;
+- laboratory results;
+- imaging;
+- pre-hospital information;
+- multiple clinicians; and
+- the wider hospital system.
+
+Under high cognitive load, working memory becomes less reliable.
+
+Externalising important information can therefore improve performance.
+
+This may include:
+
+- verbalising priorities;
+- using a visible trauma board;
+- recording critical times;
+- assigning a team member to documentation;
+- repeating key instructions;
+- summarising the current situation after major changes; and
+- explicitly stating the next intended action.
+
+These techniques reduce reliance on memory alone.
+
+### The Leader as the Team's Information Hub
+
+The Trauma Team Leader should ensure that critical information flows in both directions.
+
+The leader needs information from the team, but the team also needs information from the leader.
+
+For example:
+
+> **“Blood pressure is falling despite the initial response. We are now prioritising haemorrhage control. Surgery has been informed and we are preparing for definitive intervention.”**
+
+This statement provides the team with:
+
+- the current problem;
+- the interpretation;
+- the change in priority; and
+- the anticipated next step.
+
+Without this communication, individual clinicians may continue working according to an outdated plan.
+
+### Communication During Major Decisions
+
+When the management strategy changes, the leader should communicate the change explicitly.
+
+Important decision points include:
+
+- activation of a major haemorrhage pathway;
+- decision to intubate;
+- decision to proceed directly to theatre;
+- decision to obtain urgent imaging;
+- decision to perform a resuscitative procedure;
+- recognition of treatment failure;
+- need for additional specialist support;
+- decision to transfer the patient; and
+- transition from resuscitation to definitive management.
+
+The team should know not only **what** has been decided, but also **why**, when the rationale is clinically important.
+
+### Knowing When to Escalate
+
+A strong leader recognises the limits of the current team.
+
+Escalation should not be interpreted as failure.
+
+It is an appropriate response when the patient's needs exceed the available resources, expertise, or capacity.
+
+The leader should consider escalation when:
+
+- physiological instability persists;
+- definitive haemorrhage control is required;
+- the airway is difficult or deteriorating;
+- complex operative management is anticipated;
+- specialist expertise is required;
+- interventional radiology may be needed;
+- critical care support is required;
+- the patient requires transfer; or
+- the diagnosis or management pathway remains uncertain despite initial assessment.
+
+Early escalation gives additional teams time to prepare.
+
+Late escalation gives them a crisis to manage.
+
+### Determining the Next Destination
+
+The Trauma Team Leader should think about definitive destination from an early stage.
+
+The patient may ultimately require:
+
+- operating theatre;
+- interventional radiology;
+- CT;
+- intensive care;
+- a specialist trauma service; or
+- transfer to another facility.
+
+The destination should be determined by the patient's physiology, suspected injuries, response to resuscitation, available resources, and local trauma-system pathways.
+
+The important principle is:
+
+> **Resuscitation and destination planning should occur in parallel.**
+
+The team should not wait until the primary survey is completely finished before considering where the patient needs to go next.
+
+### Leadership During Deterioration
+
+When the patient deteriorates, the leader should become more structured, not less.
+
+A practical response is to:
+
+1. announce the deterioration;
+2. identify the most likely immediate threats;
+3. reassess the primary survey;
+4. allocate specific tasks;
+5. initiate appropriate interventions;
+6. call for additional resources;
+7. reassess the response; and
+8. establish the next definitive step.
+
+The leader should avoid allowing the team to become absorbed in multiple uncoordinated interventions.
+
+Clear prioritisation becomes even more important as the patient's physiology worsens.
+
+### Leadership Behaviours That Improve Performance
+
+Effective trauma leadership is characterised by observable behaviours.
+
+The leader should:
+
+- remain calm and purposeful;
+- communicate clearly;
+- listen to team members;
+- use names when assigning tasks;
+- acknowledge important information;
+- avoid unnecessary duplication;
+- encourage appropriate challenge;
+- summarise the situation after major changes;
+- anticipate the next problem;
+- reassess the patient frequently; and
+- make decisions when decisions are required.
+
+Calm leadership should not be confused with passivity.
+
+A leader who remains quiet while the team loses direction is not maintaining control of the resuscitation.
+
+Equally, a leader who gives continuous instructions without listening to the team can create a dysfunctional environment.
+
+The effective leader provides **direction without unnecessary interference**.
+
+### A Practical Mental Model for the Trauma Team Leader
+
+A useful mental model is:
+
+**Observe → Interpret → Prioritise → Delegate → Act → Reassess → Anticipate**
+
+**Observe** the patient, team, environment, and available information.
+
+**Interpret** what the findings mean clinically.
+
+**Prioritise** the problems according to immediate risk and reversibility.
+
+**Delegate** tasks to appropriate team members.
+
+**Act** on the most important threats.
+
+**Reassess** the patient and the effect of interventions.
+
+**Anticipate** the next problem and prepare the team for it.
+
+This is a continuous cycle rather than a linear sequence.
+
+The leader should repeatedly return to the beginning of the cycle whenever new information becomes available.
+
+### The Leader's Final Responsibility
+
+Ultimately, the Trauma Team Leader is responsible for maintaining the direction of the resuscitation.
+
+This does not mean personally performing every intervention or making every decision without consultation.
+
+It means ensuring that the patient remains the centre of the team's attention, that priorities are explicit, that important tasks have owners, that deterioration is recognised early, and that the team moves towards definitive care without avoidable delay.
+
+> **The Trauma Team Leader's job is to keep the team ahead of the patient—not chasing problems after they have already become crises.**
+
+Effective leadership therefore combines clinical knowledge with situational awareness, communication, delegation, anticipation, and disciplined reassessment.
+
+These skills are what transform a collection of clinicians into an effective trauma team.
+
 ## 1.7 Priorities During the Initial Resuscitation
 
 ## 1.8 Common Errors
