@@ -678,6 +678,284 @@ The Trauma Team Leader should therefore build reassessment into the resuscitatio
 
 ## 1.4 The Initial Approach
 
+The initial approach to the major trauma patient should be structured, purposeful, and adaptable.
+
+The objective is not to complete a checklist as quickly as possible.
+
+The objective is to **identify and treat immediate threats, establish physiological priorities, and create a clear plan for definitive care**.
+
+For the Trauma Team Leader, this begins before the patient reaches the resuscitation room.
+
+### Pre-alert and Preparation
+
+Effective trauma care begins with preparation.
+
+When a pre-alert is available, the Trauma Team Leader should use the information provided to anticipate the patient's immediate needs rather than simply waiting for arrival.
+
+Important information may include:
+
+- mechanism and time of injury;
+- number of patients;
+- suspected injuries;
+- physiological observations;
+- interventions already performed;
+- response to treatment;
+- estimated time of arrival;
+- and any special circumstances or hazards.
+
+The leader should translate this information into practical preparation.
+
+This may include confirming:
+
+- appropriate team activation;
+- airway and breathing equipment;
+- monitoring;
+- intravenous or intraosseous access equipment;
+- haemorrhage-control equipment;
+- blood products and major haemorrhage resources where indicated;
+- imaging availability;
+- operating theatre or interventional radiology pathways;
+- and the need for additional specialist support.
+
+Preparation is not administrative work performed before the resuscitation.
+
+**Preparation is part of the resuscitation.**
+
+### Trauma Team Activation
+
+The composition and activation criteria of a trauma team vary between trauma systems and hospitals.
+
+The Trauma Team Leader should therefore understand the local major trauma pathway and know which patients require immediate team activation.
+
+The purpose of activation is not simply to assemble a large number of clinicians.
+
+It is to ensure that the appropriate expertise, equipment, and resources are available at the time they are needed.
+
+Overactivation may create unnecessary disruption.
+
+Underactivation may result in critical delays.
+
+The leader should therefore use local activation criteria while maintaining clinical judgement when the patient's presentation does not fit neatly into a predefined category.
+
+### The First Look
+
+Before beginning a detailed assessment, the team should develop an immediate impression of the patient's physiological state.
+
+This first look should occur rapidly.
+
+The leader should consider:
+
+**Airway** — Is the patient able to maintain and protect the airway?
+
+**Breathing** — Is there immediately life-threatening respiratory compromise?
+
+**Circulation** — Is there evidence of major haemorrhage or circulatory failure?
+
+**Disability** — Is there an obvious neurological emergency or rapidly deteriorating level of consciousness?
+
+**Exposure and environment** — Are there major injuries that are immediately visible, and is the patient at risk of hypothermia?
+
+The first look does not replace the primary survey.
+
+It establishes the initial level of concern and helps the leader recognise whether immediate intervention is already required.
+
+### Primary Survey
+
+The primary survey provides a structured framework for identifying and treating life-threatening problems according to priority.
+
+A commonly used approach is:
+
+**A — Airway with cervical spine considerations**
+
+**B — Breathing and ventilation**
+
+**C — Circulation and haemorrhage control**
+
+**D — Disability**
+
+**E — Exposure and environmental control**
+
+The exact sequence and terminology may vary between trauma systems and guidelines.
+
+The underlying principle remains consistent:
+
+> **Identify the problem, intervene immediately when required, and reassess the response.**
+
+The primary survey should therefore never be interpreted as a rigid sequence in which assessment must be completed before treatment begins.
+
+If a life-threatening problem is identified during the assessment of one component, treatment should begin immediately while the rest of the team continues appropriate assessment and intervention.
+
+### Simultaneous Assessment and Intervention
+
+Major trauma resuscitation is a team process.
+
+Multiple tasks should occur in parallel whenever sufficient personnel and resources are available.
+
+For example, while one clinician assesses the airway, another may assess breathing, another may establish vascular access, and another may obtain monitoring and vital signs.
+
+The Trauma Team Leader should not attempt to perform every task personally.
+
+Instead, the leader should maintain an overview of the patient while allocating tasks according to urgency, competence, and available personnel.
+
+This creates an important distinction:
+
+**The leader manages the resuscitation; individual team members perform delegated tasks.**
+
+The leader should therefore use clear, closed-loop communication.
+
+A task should have:
+
+1. a clearly identified person responsible for it;
+2. a clearly stated objective;
+3. confirmation that the instruction has been understood;
+4. and subsequent confirmation when the task has been completed or the patient's condition changes.
+
+### Treat as You Find
+
+A major trauma patient should not be allowed to deteriorate while the team completes an artificial sequence.
+
+If a catastrophic external haemorrhage is identified, it should be controlled immediately.
+
+If the airway is obstructed, it should be addressed immediately.
+
+If there is a life-threatening breathing problem, appropriate treatment should not wait until the remainder of the primary survey is complete.
+
+This principle can be summarised as:
+
+> **Treat life-threatening problems as they are identified.**
+
+The purpose of the structured approach is therefore not to delay intervention.
+
+It is to reduce the likelihood that a life-threatening problem will be missed.
+
+### Monitoring and Reassessment
+
+Initial interventions should generate a physiological response that can be assessed.
+
+Monitoring should therefore begin early and continue throughout the resuscitation.
+
+Depending on the patient's condition and local resources, this may include:
+
+- oxygen saturation;
+- respiratory rate;
+- heart rate;
+- blood pressure;
+- cardiac rhythm;
+- temperature;
+- capnography where indicated;
+- level of consciousness;
+- peripheral perfusion;
+- urine output where appropriate;
+- point-of-care testing;
+- and serial laboratory measurements.
+
+The importance of monitoring is not simply to collect numbers.
+
+The leader must interpret the numbers in relation to the patient's clinical trajectory.
+
+After every major intervention, the team should ask:
+
+> **“Did the patient improve as expected?”**
+
+If the answer is no, the leader should reconsider the working diagnosis, the adequacy of the intervention, and whether another life-threatening problem remains untreated.
+
+### When the Primary Survey Is Interrupted
+
+The primary survey may be interrupted by clinical deterioration, the discovery of a new life-threatening problem, or the need for an urgent intervention.
+
+This is not a failure of the structured approach.
+
+It is an expected feature of major trauma.
+
+The leader should recognise when the situation has changed and allow the team to temporarily redirect its attention to the new priority.
+
+Once the immediate threat has been addressed, the team should return to the structured assessment and determine what has been completed and what remains outstanding.
+
+A useful principle is:
+
+> **Interrupt the sequence when necessary, but never lose the sequence.**
+
+### The Role of the Trauma Team Leader During the Initial Approach
+
+The leader's role changes as the resuscitation progresses.
+
+At the beginning, the leader creates readiness.
+
+During the primary survey, the leader establishes priorities.
+
+During intervention, the leader coordinates simultaneous tasks.
+
+After intervention, the leader reassesses the patient's response.
+
+As the immediate threats are controlled, the leader begins planning definitive management.
+
+This requires continuous situational awareness.
+
+The leader should always know:
+
+- what has been identified;
+- what has been treated;
+- what remains unresolved;
+- who is responsible for each active task;
+- what information is still required;
+- and where the patient is likely to need definitive care.
+
+### Moving Beyond the Resuscitation Room
+
+The initial approach does not end when the primary survey is completed.
+
+The patient may require:
+
+- further imaging;
+- operative intervention;
+- interventional radiology;
+- intensive care;
+- specialist management;
+- transfer to a major trauma centre;
+- or continued observation and reassessment.
+
+The Trauma Team Leader should therefore begin considering definitive disposition early.
+
+A patient who requires urgent haemorrhage control should not remain in the resuscitation room simply because the team has not yet completed every possible investigation.
+
+Similarly, a patient who is physiologically stable may require a different diagnostic and disposition pathway.
+
+The destination is part of the resuscitation plan.
+
+### The Trauma Team Leader's Mental Checklist
+
+Throughout the initial approach, the leader can repeatedly ask:
+
+1. **What can kill this patient now?**
+2. **What have we identified?**
+3. **What have we treated?**
+4. **How has the patient responded?**
+5. **What remains unresolved?**
+6. **What needs to happen next?**
+7. **Where does this patient need definitive care?**
+
+These questions help prevent cognitive fixation and keep the team focused on priorities rather than individual tasks.
+
+### Clinical Pearl
+
+> **The primary survey is not a race through ABCDE. It is a framework for simultaneous assessment, intervention, communication, and reassessment.**
+
+### Key Takeaways
+
+1. **Major trauma management begins before the patient arrives through appropriate pre-alert, team activation, and preparation.**
+2. **The first look should rapidly identify whether immediate life-threatening problems are already present.**
+3. **The primary survey provides structure but must remain dynamic.**
+4. **Life-threatening problems should be treated as they are identified.**
+5. **Major trauma resuscitation depends on simultaneous assessment and intervention by multiple team members.**
+6. **The Trauma Team Leader should coordinate rather than attempt to perform every task personally.**
+7. **Clear delegation and closed-loop communication reduce avoidable errors.**
+8. **Every major intervention should be followed by deliberate reassessment of the patient's response.**
+9. **A disrupted primary survey should be resumed once the immediate competing threat has been addressed.**
+10. **Definitive management and patient disposition should be considered early rather than at the end of the resuscitation.**
+11. **The leader must maintain situational awareness of the patient, the team, and the next required step.**
+
+
+
 ## 1.5 The Role of the Trauma Team
 
 ## 1.6 The Role of the Trauma Team Leader
