@@ -335,7 +335,7 @@ The second question is particularly important.
 
 An intervention is not complete merely because it has been performed.
 
-It is complete only when its **effect has been assessed and the patient's response is understood**.
+It is complete only when its **effect has been assessed, the patient's response is understood, and the next priority is clear**.
 
 ### Anticipating Deterioration
 
@@ -345,7 +345,7 @@ The leader should constantly consider:
 
 > **“If this patient deteriorates in the next five minutes, what will I wish we had already prepared?”**
 
-This may mean preparing blood products before profound haemodynamic collapse, involving an airway expert before airway failure, alerting surgery or interventional radiology before haemorrhage becomes uncontrollable, or preparing for transfer before the patient's condition deteriorates beyond the capabilities of the current facility.
+This may mean preparing blood products before profound haemodynamic collapse, involving appropriate airway expertise before airway failure, alerting surgery or interventional radiology before haemorrhage becomes uncontrollable, or preparing for transfer before the patient's condition deteriorates beyond the capabilities of the current facility.
 
 Anticipation does not mean performing unnecessary interventions.
 
@@ -360,7 +360,7 @@ A dramatic injury can dominate the team's attention while a less obvious but imm
 Examples include:
 
 - focusing on an obvious limb injury while major haemorrhage continues elsewhere;
-- concentrating on a head injury while failing to recognise hypoxia or hypotension;
+- concentrating on a head injury while failing to recognise or correct hypoxia or hypotension;
 - pursuing detailed imaging while the patient requires immediate haemorrhage control;
 - or treating a chest injury without reassessing the overall physiological response.
 
