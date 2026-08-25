@@ -1431,6 +1431,8 @@ The central question throughout the initial resuscitation is:
 
 This requires the leader to distinguish between what is **immediately life-threatening**, what is **time-critical but temporarily tolerated**, and what can safely wait until the patient has been stabilised.
 
+The traditional order of ABCDE should therefore be understood as a framework for prioritisation rather than an instruction to complete one component before addressing another life-threatening problem.
+
 ### Prioritise Threats, Not Abnormalities
 
 Trauma patients commonly arrive with multiple abnormal findings. Not every abnormality requires immediate intervention.
@@ -1467,6 +1469,8 @@ At the same time, the team should recognise that a patient with severe internal 
 The absence of obvious bleeding does not therefore exclude major haemorrhage.
 
 The Trauma Team Leader should consider the patient's mechanism of injury, examination findings, physiological response, response to resuscitation, and the likely anatomical source of bleeding when deciding how urgently definitive haemorrhage control is required.
+
+Failure to respond as expected should increase concern for ongoing haemorrhage, inadequate haemorrhage control, an alternative cause of shock, or a combination of these.
 
 ### Airway and Oxygenation
 
@@ -1556,7 +1560,7 @@ A deterioration in consciousness may represent evolving intracranial injury, hyp
 
 The leader should therefore avoid assuming that an altered mental state is automatically explained by head injury.
 
-In patients with traumatic brain injury, prevention and correction of secondary physiological insults are important. Hypoxia and hypotension are associated with worse outcomes and may contribute to secondary brain injury.
+In patients with traumatic brain injury, prevention and correction of secondary physiological insults should remain an explicit resuscitation priority. Hypoxia and hypotension are associated with worse outcomes and may contribute to secondary brain injury.
 
 Appropriate physiological targets depend on the patient's age, injury pattern, and clinical context.
 
