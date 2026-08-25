@@ -12,9 +12,9 @@ author: "Shaheen Salih Abdalaziz Ahmed"
 
 ## 1.1 What Is Major Trauma?
 
-Major trauma is not defined simply by the number of injuries a patient has sustained. It is better understood as **an injury or combination of injuries that is life-threatening and may result in permanent or long-term disability**.
+Major trauma is not defined simply by the number of injuries a patient has sustained. It is better understood as **an injury or combination of injuries that is life-threatening or may result in permanent or long-term disability**.
 
-The term describes a patient whose injuries may exceed the body's ability to compensate, whose condition may deteriorate rapidly, or whose management requires coordinated intervention from multiple clinical teams.
+The term describes a patient whose injuries may overwhelm physiological compensation, whose condition may deteriorate rapidly, or whose management requires coordinated intervention from multiple clinical teams.
 
 For the Trauma Team Leader, this distinction is fundamental.
 
@@ -70,7 +70,7 @@ The Injury Severity Score (ISS) is an important measure of anatomical injury sev
 
 However, the Trauma Team Leader should understand its limitations.
 
-ISS is calculated **after the patient's injuries have been identified and coded**. It is therefore useful for describing the eventual anatomical burden of injury, but it cannot reliably tell the team what to do during the first few minutes of a resuscitation.
+ISS is calculated **after the patient's injuries have been identified, anatomically classified, and coded**. It is therefore useful for describing the eventual anatomical burden of injury, but it cannot reliably tell the team what to do during the first few minutes of a resuscitation.
 
 A patient does not arrive in the resuscitation room carrying a completed ISS.
 
@@ -130,7 +130,7 @@ In major trauma, time is not simply a measure of how long the resuscitation has 
 
 **Time changes the patient's physiology.**
 
-A patient with uncontrolled haemorrhage may deteriorate from compensated shock to cardiovascular collapse. A patient with an evolving airway problem may become impossible to ventilate or intubate. A patient with traumatic brain injury may deteriorate as secondary insults develop.
+A patient with uncontrolled haemorrhage may deteriorate from compensated shock to cardiovascular collapse. A patient with an evolving airway problem may become progressively more difficult to oxygenate, ventilate, or intubate. A patient with traumatic brain injury may deteriorate as secondary brain injury develops, particularly in the presence of hypoxia or hypotension.
 
 For the Trauma Team Leader, the first minutes are therefore not a period of waiting for more information.
 
@@ -177,8 +177,8 @@ More often, it is a sequence of small delays:
 - the pre-alert is not heard by the right person;
 - blood products are requested only after profound instability develops;
 - a difficult airway is recognised only when the patient deteriorates;
-- the surgeon or interventional radiologist is contacted too late;
-- imaging is pursued despite ongoing physiological deterioration;
+- the appropriate surgical, interventional, or haemorrhage-control team is contacted too late;
+- imaging is pursued in a deteriorating patient when it delays immediate haemorrhage control;
 - or an apparently successful intervention is not reassessed.
 
 Individually, each delay may appear minor.
@@ -217,7 +217,7 @@ is not merely a description of injuries.
 
 It is a prediction of what the team may need next.
 
-The team may need immediate haemorrhage control, blood products, pelvic stabilisation, rapid imaging or operative/interventional management, depending on the patient's response and local pathways.
+The team may need immediate haemorrhage control, blood products, pelvic stabilisation, imaging when appropriate, or operative/interventional management, depending on the patient's response and local pathways.
 
 The leader's job is to recognise this before the patient's condition forces the team to react.
 
@@ -301,7 +301,7 @@ The second question is particularly important.
 
 An intervention is not complete merely because it has been performed.
 
-It is complete when its **effect has been assessed**.
+It is complete only when its **effect has been assessed and the patient's response is understood**.
 
 ### Anticipating Deterioration
 
@@ -395,7 +395,7 @@ This cycle is the foundation of effective trauma leadership.
 1. **The first minutes of major trauma are a period of active decision-making, not passive information gathering.**
 2. **Trauma care begins before the patient arrives through structured pre-alert, team activation, and preparation.**
 3. **The Trauma Team Leader must manage both the patient and the system around the patient.**
-4. **The primary survey is dynamic and must be repeated whenever the patient's condition changes.**
+4. **The primary survey is dynamic and should be repeated whenever the patient's condition changes or after major interventions.**
 5. **Every major intervention should be followed by deliberate reassessment of its effect.**
 6. **Anticipation reduces avoidable delay.**
 7. **The leader must maintain a whole-patient view and avoid fixation on a single dramatic injury.**
@@ -455,7 +455,7 @@ Instead, ask:
 
 The ability of a trauma patient to compensate for injury varies considerably.
 
-A young, otherwise healthy patient may maintain blood pressure despite significant blood loss through tachycardia and peripheral vasoconstriction.
+A young, otherwise healthy patient may initially maintain blood pressure despite significant blood loss through compensatory tachycardia and peripheral vasoconstriction.
 
 An older patient, or a patient taking medications that alter cardiovascular responses, may not demonstrate the same physiological pattern.
 
@@ -544,7 +544,7 @@ The second requires vigilance.
 
 Certain physiological abnormalities are particularly important because their consequences may extend beyond the original injury.
 
-In patients with traumatic brain injury, hypoxia and hypotension are associated with worse outcomes and can contribute to secondary brain injury.
+In patients with traumatic brain injury, hypoxia and hypotension are associated with worse outcomes and may contribute to secondary brain injury by compromising cerebral oxygen delivery and perfusion.
 
 This does not mean that every trauma patient should be managed according to a neurological protocol alone. The appropriate physiological targets depend on the patient's age, injury pattern, and clinical context.
 
