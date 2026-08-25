@@ -2125,6 +2125,8 @@ The leader should ensure that:
 
 The leader should also determine whether the patient requires immediate transfer to definitive haemorrhage control rather than allowing diagnostic processes to create avoidable delay.
 
+Each major task should have a clearly identified owner, and the leader should establish when its effect will be reassessed.
+
 ### Decision Point
 
 During the assessment, the patient's respiratory effort increases and his blood pressure falls further.
@@ -2134,6 +2136,8 @@ The leader should recognise that this is not simply a new isolated observation.
 It represents a **change in trajectory**.
 
 The correct response is to reassess the patient, identify what has changed, and determine whether a previously occult life-threatening problem has become clinically apparent.
+
+The leader should explicitly reconsider the priority of each active problem and redirect resources as the patient's physiology and trajectory change.
 
 The team should not continue mechanically through a checklist while the patient's physiology is deteriorating.
 
@@ -2147,6 +2151,8 @@ The leader's task is not to know the final diagnosis immediately.
 
 The task is to ensure that the team is identifying and treating the most dangerous possibilities while moving efficiently toward definitive diagnosis and treatment.
 
+The leader must continuously integrate new information rather than treating the initial assessment as a fixed diagnosis or plan.
+
 ### Debrief
 
 The most important lessons from this case are:
@@ -2159,6 +2165,7 @@ The most important lessons from this case are:
 6. **Early activation of the appropriate resources can prevent avoidable delay.**
 7. **The leader must maintain situational awareness while allowing individual team members to perform focused tasks.**
 8. **The endpoint of resuscitation is not completion of the checklist; it is control of life-threatening pathology and progression toward definitive care.**
+9. **Changes in physiology or response to treatment should trigger reassessment and reprioritisation rather than continuation of the original plan.**
 
 ## Key Takeaways
 
@@ -2171,9 +2178,10 @@ The most important lessons from this case are:
 7. **Major haemorrhage should be considered early when the mechanism and clinical picture support it.**
 8. **The Trauma Team Leader manages both the patient and the system surrounding the patient.**
 9. **Clear role allocation, closed-loop communication, anticipation, and repeated reassessment are essential components of effective trauma leadership.**
-10. **The Injury Severity Score is useful for describing anatomical injury burden but is not a substitute for clinical assessment during the initial resuscitation.**
-11. **The team should move deliberately from recognition of threats to definitive control of the underlying pathology.**
-12. **The practical mental model is: Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate.**
+10. **The Trauma Team Leader should continuously integrate mechanism, injury pattern, physiology, response to treatment, and trajectory.**
+11. **The Injury Severity Score is useful for describing anatomical injury burden but is not a substitute for clinical assessment during the initial resuscitation.**
+12. **The team should move deliberately from recognition of threats to definitive control of the underlying pathology.**
+13. **The practical mental model is: Recognise → Prioritise → Delegate → Intervene → Reassess → Anticipate.**
 
 ## References
 
