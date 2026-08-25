@@ -1914,6 +1914,8 @@ Closed-loop communication is particularly useful for important tasks.
 
 The person receiving an instruction should acknowledge it, and completion should be confirmed.
 
+For critical tasks, the instruction should identify the responsible individual and the specific action required.
+
 This reduces the risk of assuming that an important task has been completed when it has not.
 
 ### Excessive Diagnostic Focus Before Treating Immediate Threats
@@ -1945,6 +1947,8 @@ Deterioration may follow:
 
 The leader should therefore prepare for the next likely problem rather than waiting for it to occur.
 
+Preparation should begin before deterioration becomes obvious when the likely trajectory and required resources can be anticipated.
+
 Anticipation may include preparing blood products before cardiovascular collapse, having advanced airway equipment immediately available, arranging specialist support early, or identifying the destination before the resuscitation becomes critical.
 
 ### Failure to Maintain Situational Awareness
@@ -1961,6 +1965,8 @@ A leader who becomes absorbed in a single procedure may lose awareness of the wi
 This can result in missed deterioration, duplicated tasks, delayed escalation, or failure to recognise that the overall strategy is no longer working.
 
 The leader should periodically step back mentally and reassess the entire situation.
+
+This broader reassessment is particularly important after major events or interventions that may alter the patient's trajectory or the team's priorities.
 
 ### Cognitive Overload
 
@@ -2032,6 +2038,7 @@ Before moving beyond the initial resuscitation, the Trauma Team Leader should as
 - **Has neurological status been reassessed?**
 - **Has the patient been adequately examined without unnecessary heat loss?**
 - **Have major interventions been reassessed?**
+- **Has the patient responded as expected to the major interventions?**
 - **Has the appropriate specialist help been activated?**
 - **Has definitive management been anticipated?**
 - **Does the team have a shared understanding of the current priorities?**
