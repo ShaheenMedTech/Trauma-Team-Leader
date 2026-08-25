@@ -241,11 +241,11 @@ The pre-alert should therefore be treated as a clinical decision-making tool rat
 
 A concise pre-alert should allow the team to anticipate problems and prepare appropriate personnel, equipment, blood products, and escalation pathways.
 
-The leader should listen for the information that changes management.
+The leader should listen specifically for information that changes immediate priorities, resource requirements, or the destination of definitive care.
 
 For example:
 
-> **High-energy blunt trauma + hypotension + suspected pelvic injury + ongoing bleeding**
+> **High-energy blunt trauma + physiological compromise + suspected pelvic injury + concern for major haemorrhage**
 
 is not merely a description of injuries.
 
@@ -257,7 +257,7 @@ The leader's job is to recognise this before the patient's condition forces the 
 
 ### Team Activation and Preparation
 
-A trauma team should not be assembled reactively after the patient becomes unstable.
+A trauma team should not be assembled reactively only after the patient becomes unstable.
 
 The degree of team activation should reflect the anticipated clinical need and local trauma-system protocols.
 
@@ -297,7 +297,7 @@ For example:
 
 > **Immediate chest threat?**
 
-> **Severe traumatic brain injury?**
+> **Severe traumatic brain injury or risk of secondary brain injury?**
 
 > **Pelvic or junctional haemorrhage?**
 
@@ -311,7 +311,7 @@ This is faster and safer than constructing the entire plan from zero.
 
 ### The Primary Survey Is Dynamic
 
-The primary survey should never be treated as a checklist that is completed once and then forgotten.
+The primary survey should never be treated as a checklist that is completed once and then considered finished.
 
 The patient's physiology may change while the team is examining another body system.
 
@@ -325,7 +325,7 @@ A neurological examination may change after hypoxia or hypotension.
 
 For this reason, the Trauma Team Leader should continuously ask:
 
-> **“Has anything changed?”**
+> **“What has changed, and does that change our priorities?”**
 
 and:
 
