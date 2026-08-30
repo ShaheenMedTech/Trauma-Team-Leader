@@ -258,16 +258,16 @@ A typical loop consists of:
 
 Example:
 
-**Leader:**  
+**Leader:**
 "Give 1 gram of tranexamic acid intravenously."
 
-**Clinician:**  
+**Clinician:**
 "1 gram tranexamic acid IV."
 
-**Clinician:**  
+**Clinician:**
 "Tranexamic acid given."
 
-**Leader:**  
+**Leader:**
 "Confirmed."
 
 This creates multiple opportunities to detect an error.
