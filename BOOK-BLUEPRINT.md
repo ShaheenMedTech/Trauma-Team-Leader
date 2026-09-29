@@ -1,4 +1,3 @@
-cat > BOOK-BLUEPRINT.md <<'EOF'
 # THE TRAUMA TEAM LEADER
 
 ## A Practical Guide to Major Trauma Resuscitation
@@ -90,4 +89,3 @@ Important clinical recommendations should be supported by appropriate references
 ## Version
 
 Book development version: 0.1
-EOF
