@@ -62,3 +62,26 @@ Trauma-Team-Leader/
 ├── FINAL-STRUCTURE.md
 ├── TABLE-OF-CONTENTS.md
 └── README.md
+Intended Audience
+- Emergency Medicine clinicians
+- Trauma and General Surgery clinicians
+- Anaesthesia clinicians
+- Emergency and Surgical residents
+- Junior doctors participating in trauma calls
+- Nurses and healthcare professionals involved in trauma resuscitation
+Core Principle
+The Trauma Team Leader does not need to do everything.
+The Trauma Team Leader needs to make sure everything important gets done —
+in the right order, by the right person, at the right time.
+
+Status
+Development manuscript — not a final clinical reference.
+Content, structure, references, and recommendations remain subject to revision and clinical review.
+Author
+Dr. Shaheen Ahmed
+Physician with interests in Emergency Medicine, Trauma, Resuscitation, Medical Education, and Clinical Technology.
+<div align="center">
+
+Trauma Care × Leadership × Human Factors
+</div>
+```
