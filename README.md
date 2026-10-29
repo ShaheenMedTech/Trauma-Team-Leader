@@ -101,6 +101,14 @@ Physician with interests in Emergency Medicine, Trauma, Resuscitation, Medical E
 
 ---
 
+## Copyright and Use
+
+Copyright © 2026 Dr. Shaheen Salih Abdalaziz Ahmed. All rights reserved.
+
+See [LICENSE](LICENSE) for the terms of use, including personal educational use and quotation with attribution. Public access to this repository does not grant general permission to reproduce, distribute, modify, or commercially exploit the manuscript.
+
+---
+
 <div align="center">
 
 **Trauma Care × Leadership × Human Factors**
